@@ -53,4 +53,4 @@ const HeroBanner= () => {
   )
 }
 
-export default HeroBanner
+export default HeroBanner;
