@@ -5,7 +5,11 @@ import { getApiConfiguration, getGenres } from './store/homeSlice';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Header from "./components/header/Header";
+<<<<<<< HEAD
 import Footer from './components/footer/Footer'; 
+=======
+import Footer from './components/footer/Footer';
+>>>>>>> 97684106ff00d69ee56816814809f8ac27031766
 import Home from "./pages/home/Home";
 import Details from "./pages/details/Details";
 import SearchResult from "./pages/searchResult/SearchResult";
